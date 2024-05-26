@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1Jv8z8ZpHoGpHhjNmgnVjwp+kqrBaOiBzHSZnx5BHQKiXgrX9t++IhEx+WZuTx8045q2CDjaxhplLs64qut56Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Textm\\Desktop\\JedAcademyTask\\Task1C-Sharp\\Task1C-Sharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Textm\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.5\\microsoft.dotnet.ilcompiler.8.0.5.nupkg.sha512",
+    "C:\\Users\\Textm\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.5\\microsoft.net.illink.tasks.8.0.5.nupkg.sha512",
+    "C:\\Users\\Textm\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.5\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

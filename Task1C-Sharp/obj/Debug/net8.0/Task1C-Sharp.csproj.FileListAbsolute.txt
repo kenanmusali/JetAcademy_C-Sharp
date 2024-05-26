@@ -1,0 +1,15 @@
+C:\Users\Textm\Desktop\JedAcademyTask\Task1C-Sharp\bin\Debug\net8.0\Task1C-Sharp.exe
+C:\Users\Textm\Desktop\JedAcademyTask\Task1C-Sharp\bin\Debug\net8.0\Task1C-Sharp.deps.json
+C:\Users\Textm\Desktop\JedAcademyTask\Task1C-Sharp\bin\Debug\net8.0\Task1C-Sharp.runtimeconfig.json
+C:\Users\Textm\Desktop\JedAcademyTask\Task1C-Sharp\bin\Debug\net8.0\Task1C-Sharp.dll
+C:\Users\Textm\Desktop\JedAcademyTask\Task1C-Sharp\bin\Debug\net8.0\Task1C-Sharp.pdb
+C:\Users\Textm\Desktop\JedAcademyTask\Task1C-Sharp\obj\Debug\net8.0\Task1C-Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Textm\Desktop\JedAcademyTask\Task1C-Sharp\obj\Debug\net8.0\Task1C-Sharp.AssemblyInfoInputs.cache
+C:\Users\Textm\Desktop\JedAcademyTask\Task1C-Sharp\obj\Debug\net8.0\Task1C-Sharp.AssemblyInfo.cs
+C:\Users\Textm\Desktop\JedAcademyTask\Task1C-Sharp\obj\Debug\net8.0\Task1C-Sharp.csproj.CoreCompileInputs.cache
+C:\Users\Textm\Desktop\JedAcademyTask\Task1C-Sharp\obj\Debug\net8.0\Task1C-Sharp.sourcelink.json
+C:\Users\Textm\Desktop\JedAcademyTask\Task1C-Sharp\obj\Debug\net8.0\Task1C-Sharp.dll
+C:\Users\Textm\Desktop\JedAcademyTask\Task1C-Sharp\obj\Debug\net8.0\refint\Task1C-Sharp.dll
+C:\Users\Textm\Desktop\JedAcademyTask\Task1C-Sharp\obj\Debug\net8.0\Task1C-Sharp.pdb
+C:\Users\Textm\Desktop\JedAcademyTask\Task1C-Sharp\obj\Debug\net8.0\Task1C-Sharp.genruntimeconfig.cache
+C:\Users\Textm\Desktop\JedAcademyTask\Task1C-Sharp\obj\Debug\net8.0\ref\Task1C-Sharp.dll
