@@ -1,0 +1,5 @@
+C:\Users\Textm\Desktop\JedAcademyTask\Task 5\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Textm\Desktop\JedAcademyTask\Task 5\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Textm\Desktop\JedAcademyTask\Task 5\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Textm\Desktop\JedAcademyTask\Task 5\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Textm\Desktop\JedAcademyTask\Task 5\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
