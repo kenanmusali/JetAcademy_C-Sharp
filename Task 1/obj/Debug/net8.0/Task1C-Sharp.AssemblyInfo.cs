@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Task1C-Sharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ae4bea2295f8e5dabe793a2b36062aecb79b14c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d1597c200c82ee43b25f30eb8b34b8af523e5ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("Task1C-Sharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Task1C-Sharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
